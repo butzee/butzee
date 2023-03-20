@@ -15,10 +15,11 @@ Have fun!
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 # 🗊 Platforms
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white) ![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black)
-
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)][tryhackme]
+[![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black)][HackTheBox]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Butzee&theme=dark&hide_border=false)<br/>
 
----
+[tryhackme]: https://tryhackme.com/p/Butzee
+[HackTheBox]: https://app.hackthebox.com/profile/1325132
