@@ -18,6 +18,8 @@ Have fun!
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)][tryhackme]
 [![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black)][HackTheBox]
 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Butzee.png" alt="TryHackMe">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Butzee&theme=dark&hide_border=false)<br/>
 
