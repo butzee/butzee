@@ -19,10 +19,8 @@ Have fun!
 [![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black)][HackTheBox]
 
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/Butzee.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Butzee.png" alt="TryHackMe">
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Butzee&theme=dark&hide_border=false)<br/>
 
 [tryhackme]: https://tryhackme.com/p/Butzee
 [HackTheBox]: https://app.hackthebox.com/profile/1325132
