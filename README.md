@@ -1,5 +1,5 @@
 # Hello, I'm Butzee! 👋
-I am a Master Computer Science student from Germany. I am currently working part-time as a working student in a consulting company inside a small security team. Currently I am trying myself out in different security topics. So I'm working on my personal hacking handbook and trying to get a foothold in the cloud security area. 
+I am a Master Computer Science student from Germany. I am currently working part-time as a working student in a consulting company inside a small security team. Currently I am trying myself out in different security topics. So I'm trying to get a foothold in the cloud security area and am currently writing my Master-Thesis.
 
 Have fun!
 
